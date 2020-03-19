@@ -5,11 +5,11 @@ Screenshots:
 
 ### Base Screen
 
-![Image](inital.jpg)
+![Image](initial.jpg |  width=200)
 
 ### Screen after selection of file via using camera or Gallery
-![Image](image_selected.jpg)	
+![Image](image_selected.jpg | width=200)	
 
 ### Result of prediction
 Note: Since there is been a api call, there can be little bit of delay in getting result and since i have not and loading screen, so you stay on the base screen. Will fix this issue in near future.
-![Image](result.jpg)
+![Image](result.jpg | width=200)
