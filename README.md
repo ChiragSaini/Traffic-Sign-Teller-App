@@ -15,6 +15,6 @@ Screenshots:
 <img src="image_selected.jpg" width="200">
 
 ### Result of prediction
-Note: Since there is been a api call, there can be little bit of delay in getting result and since i have not and loading screen, so you stay on the base screen. Will fix this issue in near future.
+Note: Since there is been a api call, there can be little bit of delay in getting result and since i have not configured a loading screen, so you stay on the base screen. Will fix this issue in near future.
 
 <img src="result.jpg" width="200">
